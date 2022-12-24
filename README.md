@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python.
 - 📫 Connect with me via [Linkedin](https://www.linkedin.com/in/benjaminmakjw/)
 - My other sites:
-  - [Kaggle](https://www.kaggle.com/benjaminmak/code)
-  - [Tableau](https://public.tableau.com/app/profile/benjamin.mak)
+  - [Kaggle](https://www.kaggle.com/benjaminmak/code) (Data analysis projects)
+  - [Tableau](https://public.tableau.com/app/profile/benjamin.mak) (Data visualisations)
 
 
 <!---
