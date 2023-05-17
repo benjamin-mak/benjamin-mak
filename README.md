@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benjamin-mak
-- 👀 I’m interested in data analytics and technology. Am trying to transit into the field of data analytics.
+- 👀 I’m interested in data analytics and technology.
 - 🌱 I’m currently learning Python.
 - 📫 Connect with me via [Linkedin](https://www.linkedin.com/in/benjaminmakjw/)
 - Other sites:
