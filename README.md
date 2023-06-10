@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @benjamin-mak
-- 👀 I’m interested in data analytics and technology.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in software development and technology.
+- 🌱 I’m currently learning Python and Javascript.
 - 📫 Connect with me via [Linkedin](https://www.linkedin.com/in/benjaminmakjw/)
 - Other sites:
   - [Kaggle](https://www.kaggle.com/benjaminmak/code) (Data analysis projects)
